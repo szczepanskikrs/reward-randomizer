@@ -1,5 +1,5 @@
-# 🎁 reward-randomizer CLI
-### Reward CLI is a simple command-line program that lets you reward yourself by randomly selecting a reward from a list defined in a rewards.json file. It's a fun and motivational tool to celebrate small wins, complete tasks, or just treat yourself!
+# 🎁 CLI reward-randomizer
+### CLI reward-randomizer is a simple command-line program that lets you reward yourself by randomly selecting a reward from a list defined in a rewards.json file. It's a fun and motivational tool to celebrate small wins, complete tasks, or just treat yourself!
 
 # ✨ Features
  - Reads a list of rewards from a rewards.json file
